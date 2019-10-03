@@ -1,0 +1,11 @@
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.deps.json
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.runtimeconfig.json
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.runtimeconfig.dev.json
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.dll
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.pdb
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.csprojAssemblyReference.cache
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.csproj.CoreCompileInputs.cache
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.AssemblyInfoInputs.cache
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.AssemblyInfo.cs
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.dll
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.pdb

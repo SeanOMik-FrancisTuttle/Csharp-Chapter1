@@ -1,0 +1,11 @@
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.deps.json
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.runtimeconfig.json
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.runtimeconfig.dev.json
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.dll
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.pdb
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.csprojAssemblyReference.cache
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.csproj.CoreCompileInputs.cache
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.AssemblyInfoInputs.cache
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.AssemblyInfo.cs
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.dll
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise5\Exercise5\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.pdb

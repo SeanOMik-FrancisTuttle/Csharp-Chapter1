@@ -1,0 +1,10 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\bin\Debug\netcoreapp2.1\Exercise9.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\bin\Debug\netcoreapp2.1\Exercise9.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\bin\Debug\netcoreapp2.1\Exercise9.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\bin\Debug\netcoreapp2.1\Exercise9.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\bin\Debug\netcoreapp2.1\Exercise9.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\obj\Debug\netcoreapp2.1\Exercise9.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\obj\Debug\netcoreapp2.1\Exercise9.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\obj\Debug\netcoreapp2.1\Exercise9.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\obj\Debug\netcoreapp2.1\Exercise9.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter1\FirstProgram\Exercise9\Exercise9\obj\Debug\netcoreapp2.1\Exercise9.pdb

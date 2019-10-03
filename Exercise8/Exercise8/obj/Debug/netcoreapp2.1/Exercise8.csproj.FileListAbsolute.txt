@@ -1,0 +1,10 @@
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.deps.json
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.runtimeconfig.json
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.runtimeconfig.dev.json
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.dll
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.pdb
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.csproj.CoreCompileInputs.cache
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.AssemblyInfoInputs.cache
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.AssemblyInfo.cs
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.dll
+H:\My Documents\C#\Chapter I\C----Chapter-I\FirstProgram\Exercise8\Exercise8\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.pdb
