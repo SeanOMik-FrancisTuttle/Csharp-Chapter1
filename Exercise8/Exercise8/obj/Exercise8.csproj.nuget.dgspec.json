@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\My Documents\\C#\\Chapter I\\C----Chapter-I\\FirstProgram\\Exercise8\\Exercise8\\Exercise8\\Exercise8.csproj": {}
+    "\\\\FRANCISTUTTLE.EDU\\Home\\Student\\IT\\se1028304\\My Documents\\C#\\Csharp-Chapter1\\Exercise8\\Exercise8\\Exercise8.csproj": {}
   },
   "projects": {
-    "H:\\My Documents\\C#\\Chapter I\\C----Chapter-I\\FirstProgram\\Exercise8\\Exercise8\\Exercise8\\Exercise8.csproj": {
+    "\\\\FRANCISTUTTLE.EDU\\Home\\Student\\IT\\se1028304\\My Documents\\C#\\Csharp-Chapter1\\Exercise8\\Exercise8\\Exercise8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\My Documents\\C#\\Chapter I\\C----Chapter-I\\FirstProgram\\Exercise8\\Exercise8\\Exercise8\\Exercise8.csproj",
+        "projectUniqueName": "\\\\FRANCISTUTTLE.EDU\\Home\\Student\\IT\\se1028304\\My Documents\\C#\\Csharp-Chapter1\\Exercise8\\Exercise8\\Exercise8.csproj",
         "projectName": "Exercise8",
-        "projectPath": "H:\\My Documents\\C#\\Chapter I\\C----Chapter-I\\FirstProgram\\Exercise8\\Exercise8\\Exercise8\\Exercise8.csproj",
+        "projectPath": "\\\\FRANCISTUTTLE.EDU\\Home\\Student\\IT\\se1028304\\My Documents\\C#\\Csharp-Chapter1\\Exercise8\\Exercise8\\Exercise8.csproj",
         "packagesPath": "C:\\Users\\se1028304\\.nuget\\packages\\",
-        "outputPath": "H:\\My Documents\\C#\\Chapter I\\C----Chapter-I\\FirstProgram\\Exercise8\\Exercise8\\Exercise8\\obj\\",
+        "outputPath": "\\\\FRANCISTUTTLE.EDU\\Home\\Student\\IT\\se1028304\\My Documents\\C#\\Csharp-Chapter1\\Exercise8\\Exercise8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,16 +42,23 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
